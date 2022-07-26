@@ -1,2 +1,2 @@
-# FuryBSD-wallpapers
-My personal contribution to FuryBSD background wallpapers
+# BSD-wallpapers
+My personal contribution to BSD background wallpapers
